@@ -1,0 +1,774 @@
+{
+  "left": {
+    "categories": [
+      {
+        "id": "amplifiers",
+        "category": "Amplifiers",
+        "collections": [
+          {
+            "title": "SK-M Series",
+            "id": "231400577",
+            "slug": "/collections/sk-mini-compact-car-audio-amplifiers",
+            "products": [
+              {
+                "id": "5943630657",
+                "sku": "SK-M4004D",
+                "slug": "/products/sk-m4004d-car-amplifier"
+              },
+              {
+                "id": "5943632001",
+                "sku": "SK-M5001D",
+                "slug": "/products/sk-m5001d-car-amplifier"
+              },
+              {
+                "id": "1424520282135",
+                "sku": "SK-M9005D",
+                "slug": "/products/sk-m9005d-car-amplifier"
+              }
+            ]
+          },
+          {
+            "title": "RP Series",
+            "id": "211929985",
+            "slug": "/collections/rp-car-audio-amplifiers",
+            "products": [
+              {
+                "id": "5942872065",
+                "sku": "RP-75.4AB",
+                "slug": "/products/rp-75-4ab-car-amplifier"
+              },
+              {
+                "id": "7867850241",
+                "sku": "RP-150.4AB",
+                "slug": "/products/rp-150-4ab-car-amplifier"
+              },
+              {
+                "id": "7864606081",
+                "sku": "RP-600.5",
+                "slug": "/products/rp-600-5-car-amplifier"
+              },
+              {
+                "id": "7864486145",
+                "sku": "RP-350.1D",
+                "slug": "/products/rp-350-1d-car-amplifier"
+              },
+              {
+                "id": "5942811265",
+                "sku": "RP-800.1D",
+                "slug": "/products/rp-800-1d-car-amplifier"
+              },
+              {
+                "id": "1349153652759",
+                "sku": "RP-1200.1D",
+                "slug": "/products/rp-1200-1d-car-amplifier"
+              },
+              {
+                "id": "5942871233",
+                "sku": "RP-1500.1D",
+                "slug": "/products/rp-1500-1d-car-amplifier"
+              },
+              {
+                "id": "7863931073",
+                "sku": "RP-2000.1D",
+                "slug": "/products/rp-2000-1d-car-amplifier"
+              },
+              {
+                "id": "466992398359",
+                "sku": "RP-3500.1D",
+                "slug": "/products/rp-3500-1d-car-amplifier"
+              },
+              {
+                "id": "467003408407",
+                "sku": "RP-4500.1D",
+                "slug": "/products/rp-4500-1d-car-amplifier"
+              }
+            ]
+          },
+          {
+            "title": "SKv2 Series",
+            "id": "228834497",
+            "slug": "/collections/skv2-car-audio-amplifiers",
+            "products": [
+              {
+                "id": "5943621953",
+                "sku": "SKv2-100.4AB",
+                "slug": "/products/skv2-100-4ab-four-channel-car-amplifier"
+              },
+              {
+                "id": "5943623105",
+                "sku": "SKv2-200.4D",
+                "slug": "/products/skv2-200-4d-four-channel-car-amplifier"
+              },
+              {
+                "id": "5943626177",
+                "sku": "SKv2-1500.1D",
+                "slug": "/products/skv2-1500-1d-monoblock-subwoofer-car-amplifier"
+              },
+              {
+                "id": "5943627201",
+                "sku": "SKv2-2500.1D",
+                "slug": "/products/skv2-2500-1d-monoblock-subwoofer-car-amplifier"
+              },
+              {
+                "id": "5943627905",
+                "sku": "SKv2-3500.1D",
+                "slug": "/products/skv2-3500-1d-monoblock-subwoofer-car-amplifier"
+              },
+              {
+                "id": "5943627905",
+                "sku": "SKv2-4500.1D",
+                "slug": "/products/skv2-4500-1d-monoblock-subwoofer-car-amplifier"
+              }
+            ]
+          },
+          {
+            "title": "Marine Amplifiers",
+            "id": "441071565",
+            "slug": "/collections/marine-amplifiers",
+            "products": [
+              {
+                "id": "10501350285",
+                "sku": "RP-75.4ABM",
+                "slug": "/products/rp-75-4abm-4-channel-marine-amplifier"
+              },
+              {
+                "id": "10501350797",
+                "sku": "RP-150.4ABM",
+                "slug": "/products/rp-150-4abm-4-channel-marine-amplifier"
+              },
+              {
+                "id": "10501349005",
+                "sku": "RP-800.1DM",
+                "slug": "/products/rp-800-1dm-marine-amplifier"
+              },
+              {
+                "id": "10501349645",
+                "sku": "RP-1500.1DM",
+                "slug": "/products/rp-1500-1dm-marine-amplifier"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "subwoofers",
+        "category": "Subwoofers",
+        "collections": [
+          {
+            "title": "IX Series",
+            "id": "210059201",
+            "slug": "/collections/ix-subwoofer-series",
+            "products": [
+              {
+                "id": "5783025281",
+                "sku": "IX-8 (D2/D4)",
+                "slug": "/products/ix-8-inch-car-subwoofer"
+              },
+              {
+                "id": "5783025345",
+                "sku": "IX-10 (D2/D4)",
+                "slug": "/products/ix-10-inch-car-subwoofer"
+              },
+              {
+                "id": "5783025409",
+                "sku": "IX-12 (D2/D4)",
+                "slug": "/products/ix-12-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "VD Series",
+            "id": "210593217",
+            "slug": "/collections/vd-subwoofer-series",
+            "products": [
+              {
+                "id": "5787403329",
+                "sku": "VD-8 (D2/D4)",
+                "slug": "/products/vd-8-inch-car-subwoofer"
+              },
+              {
+                "id": "5787403521",
+                "sku": "VD-10 (D2/D4)",
+                "slug": "/products/vd-10-inch-car-subwoofer"
+              },
+              {
+                "id": "5787403649",
+                "sku": "VD-12 (D2/D4)",
+                "slug": "/products/vd-12-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "DDX Series",
+            "id": "210594433",
+            "slug": "/collections/ddx-subwoofer-series",
+            "products": [
+              {
+                "id": "9143632333",
+                "sku": "DDX-10 (D2/D4)",
+                "slug": "/products/ddx-10-inch-car-subwoofer"
+              },
+              {
+                "id": "5892017217",
+                "sku": "DDX-12 (D2/D4)",
+                "slug": "/products/ddx-12-inch-car-subwoofer"
+              },
+              {
+                "id": "5787403649",
+                "sku": "DDX-15 (D2/D4)",
+                "slug": "/products/ddx-15-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "SDR Series",
+            "id": "14365098007",
+            "slug": "/collections/sdr-subwoofer-series",
+            "products": [
+              {
+                "id": "1445121982487",
+                "sku": "SDR-8 (D2/D4)",
+                "slug": "/products/sdr-8-inch-car-subwoofer"
+              },
+              {
+                "id": "489162932247",
+                "sku": "SDR-10 (D2/D4)",
+                "slug": "/products/sdr-10-inch-car-subwoofer"
+              },
+              {
+                "id": "489167552535",
+                "sku": "SDR-12 (D2/D4)",
+                "slug": "/products/sdr-12-inch-car-subwoofer"
+              },
+              {
+                "id": "492349784087",
+                "sku": "SDR-15 (D2/D4)",
+                "slug": "/products/sdr-15-inch-car-subwoofer"
+              },
+              {
+                "id": "1445298667543",
+                "sku": "SDR-18 (D2/D4)",
+                "slug": "/products/sdr-18-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "SVR Series",
+            "id": "152463343639",
+            "slug": "/collections/svr-subwoofer-series",
+            "products": [
+              {
+                "id": "4199879475223",
+                "sku": "SVR-8 (D2/D4)",
+                "slug": "/products/svr-8-inch-800-watt-max-power-car-subwoofer"
+              },
+              {
+                "id": "4199904903191",
+                "sku": "SVR-10 (D2/D4)",
+                "slug": "/products/svr-10-inch-car-subwoofer"
+              },
+              {
+                "id": "4247918346263",
+                "sku": "SVR-12 (D2/D4)",
+                "slug": "/products/svr-12-inch-car-subwoofer"
+              },
+              {
+                "id": "4248060100631",
+                "sku": "SVR-15 (D2/D4)",
+                "slug": "/products/svr-15-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "EVL Series",
+            "id": "212092161",
+            "slug": "/collections/evl-subwoofer-series",
+            "products": [
+              {
+                "id": "6005021377",
+                "sku": "EVL-65 (D2/D4)",
+                "slug": "/products/evl-65-inch-car-subwoofer"
+              },
+              {
+                "id": "4476579610671",
+                "sku": "EVL-8 (D2/D4)",
+                "slug": "/products/evl-8-inch-car-subwoofer"
+              },
+              {
+                "id": "9143626701",
+                "sku": "EVL-10 (D2/D4)",
+                "slug": "/products/evl-10-inch-car-subwoofer"
+              },
+              {
+                "id": "8432460493",
+                "sku": "EVL-12 (D2/D4)",
+                "slug": "/products/evl-12-inch-car-subwoofer"
+              },
+              {
+                "id": "8432884877",
+                "sku": "EVL-15 (D2/D4)",
+                "slug": "/products/evl-15-inch-car-subwoofer"
+              },
+              {
+                "id": "8788155149",
+                "sku": "EVL-18 (D2/D4)",
+                "slug": "/products/evl-18-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "VXF Series",
+            "id": "12246024215",
+            "slug": "/collections/vxf-subwoofer-series",
+            "products": [
+              {
+                "id": "297935110167",
+                "sku": "VXF-12 (D2/D4)",
+                "slug": "/products/vxf-12-inch-car-subwoofer"
+              },
+              {
+                "id": "298356080663",
+                "sku": "VXF-15 (D2/D4)",
+                "slug": "/products/vxf-15-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "ZVXv2 Series",
+            "id": "210594625",
+            "slug": "/collections/zvxv2-subwoofer-series",
+            "products": [
+              {
+                "id": "5981911425",
+                "sku": "ZVX-8 (D2/D4)",
+                "slug": "/products/zvx-8-inch-car-subwoofer"
+              },
+              {
+                "id": "5787402561",
+                "sku": "ZVX-12v2 (D2/D4)",
+                "slug": "/products/zvx-12v2-12-inch-car-subwoofer"
+              },
+              {
+                "id": "5787402817",
+                "sku": "ZVX-15v2 (D2/D4)",
+                "slug": "/products/zvx-15v2-15-inch-car-subwoofer"
+              },
+              {
+                "id": "5787403009",
+                "sku": "ZVX-18v2 (D2/D4)",
+                "slug": "/products/zvx-18v2-18-inch-car-subwoofer"
+              }
+            ]
+          },
+          {
+            "title": "Empty Subwoofer Boxes",
+            "id": "36460199959",
+            "slug": "/collections/subwoofer-enclosures-boxes"
+          }
+        ]
+      },
+      {
+        "id": "speakers",
+        "category": "Speakers",
+        "collections": [
+          {
+            "title": "RPX Speaker Series",
+            "id": "211939969",
+            "slug": "/collections/rpx-coaxial-series"
+          },
+          {
+            "title": "TX Speaker Series",
+            "id": "228866305",
+            "slug": "/collections/tx-speaker-series"
+          },
+          {
+            "title": "SPX Speaker Series",
+            "id": "35257155607",
+            "slug": "/collections/spx-speaker-series"
+          },
+          {
+            "title": "Component Speakers",
+            "id": "230806273",
+            "slug": "/collections/component-speakers"
+          },
+          {
+            "title": "Pro Audio Speakers",
+            "id": "35144925207",
+            "slug": "/collections/pro-audio-speakers",
+            "sub-collections": [
+              {
+                "id": "211938561",
+                "sku": "FSX Series (Ferrite)",
+                "slug": "/collections/fsx-pro-audio-series"
+              },
+              {
+                "id": "129020428311",
+                "sku": "NPX Series (Neodymium)",
+                "slug": "/collections/npx-mid-range-pro-audio-speaker-series"
+              }
+            ]
+          },
+          {
+            "title": "Tweeters",
+            "id": "230339329",
+            "slug": "/collections/tweeters",
+            "sub-collections": [
+              {
+                "id": "35257516055",
+                "sku": "Component Tweeters",
+                "slug": "/collections/component-tweeters"
+              },
+              {
+                "id": "35257581591",
+                "sku": "Pro Audio Tweeters",
+                "slug": "/collections/pro-audio-super-tweeters"
+              }
+            ]
+          },
+          {
+            "title": "Marine Speakers",
+            "id": "423103053",
+            "slug": "/collections/marine-speakers"
+          }
+        ]
+      },
+      {
+        "category": "Marine Audio",
+        "collections": [
+          {
+            "title": "TX Speaker Series",
+            "id": "441071565",
+            "slug": "/collections/marine-amplifiers"
+          },
+          {
+            "title": "Marine Speakers",
+            "id": "423103053",
+            "slug": "/collections/marine-speakers"
+          }
+        ]
+      }
+    ]
+  },
+  "right": {
+    "categories": [
+      {
+        "id": "loaded-enclosures",
+        "category": "Loaded Enclosures",
+        "collections": [
+          {
+            "title": "SDR Series",
+            "id": "36388208663",
+            "slug": "/collections/sdr-series-loaded-enclosures-and-subwoofer-bass-packages",
+            "sub-collections": [
+              {
+                "id": "37899337751",
+                "sku": "Loaded Enclosures",
+                "slug": "/collections/sdr-series-loaded-subwoofer-enclosures"
+              },
+              {
+                "id": "37899370519",
+                "sku": "Loaded Bass Packages",
+                "slug": "/collections/sdr-series-loaded-bass-packages"
+              }
+            ]
+          },
+          {
+            "title": "EVL Series",
+            "id": "34313863191",
+            "slug": "/collections/evl-series-loaded-enclosures-and-subwoofer-bass-packages",
+            "sub-collections": [
+              {
+                "id": "37899173911",
+                "sku": "Loaded Enclosures",
+                "slug": "/collections/evl-series-loaded-subwoofer-enclosures"
+              },
+              {
+                "id": "37899304983",
+                "sku": "Loaded Bass Packages",
+                "slug": "/collections/evl-series-loaded-bass-packages"
+              }
+            ]
+          },
+          {
+            "title": "Loaded Tube Enclosures",
+            "id": "270209056815",
+            "slug": "/collections/loaded-bass-tubes"
+          },
+          {
+            "title": "Vehicle Specific",
+            "id": "162740502575",
+            "slug": "/collections/vehicle-specific-loaded-subwoofer-systems-enclosures",
+            "sub-collections": [
+              {
+                "id": "162740502575",
+                "sku": "Dodge",
+                "slug": "/collections/vehicle-specific-loaded-subwoofer-systems-enclosures/Dodge"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "empty-enclosures",
+        "category": "Empty Enclosures",
+        "collections": [
+          {
+            "title": "8\" Inch Enclosures",
+            "id": "36460199959",
+            "slug": "/collections/subwoofer-enclosures-boxes/8\"-Enclosures",
+            "products": [
+              {
+                "id": "3508926218263",
+                "sku": "SK1X8V",
+                "slug": "/products/sk1x8v-single-8-ported-subwoofer-enclosure-box"
+              },
+              {
+                "id": "3509028913175",
+                "sku": "SK2X8V",
+                "slug": "/products/sk2x8v-dual-8-inch-ported-subwoofer-enclosure-box"
+              },
+              {
+                "id": "4429612744751",
+                "sku": "SK3X8V",
+                "slug": "/products/sk3x8v-triple-8-inch-universal-fit-ported-subwoofer-enclosure"
+              },
+              {
+                "id": "4443184726063",
+                "sku": "AR1X8V",
+                "slug": "/products/ar1x8v-single-8-inch-armor-coated-ported-subwoofer-enclosure"
+              },
+              {
+                "id": "4429612744751",
+                "sku": "AR2X8V",
+                "slug": "/products/ar2x8v-dual-8-inch-ported-subwoofer-enclosure-armor-coated"
+              }
+            ]
+          },
+          {
+            "title": "10\" Enclosures",
+            "id": "36460199959",
+            "slug": "/collections/subwoofer-enclosures-boxes/10\"-Enclosures",
+            "products": [
+              {
+                "id": "3508980580375",
+                "sku": "SK1X10V",
+                "slug": "/products/sk1x10v-single-10-ported-subwoofer-enclosure-box"
+              },
+              {
+                "id": "3509033533463",
+                "sku": "SK2X10V",
+                "slug": "/products/sk2x10v-dual-10-inch-ported-subwoofer-enclosure-box"
+              },
+              {
+                "id": "4429636829231",
+                "sku": "SK3X10V",
+                "slug": "/products/sk3x10v-triple-10-inch-universal-fit-ported-subwoofer-enclosure"
+              },
+              {
+                "id": "4443184791599",
+                "sku": "AR1X10V",
+                "slug": "/products/ar1x10v-single-10-inch-armor-coated-ported-subwoofer-enclosure"
+              },
+              {
+                "id": "6859151736879",
+                "sku": "AR2X10V",
+                "slug": "/products/ar2x10v-dual-10-inch-ported-subwoofer-enclosure-armor-coated"
+              }
+            ]
+          },
+          {
+            "title": "12\" Enclosures",
+            "id": "36460199959",
+            "slug": "/collections/subwoofer-enclosures-boxes/12\"-Enclosures",
+            "products": [
+              {
+                "id": "3508991459351",
+                "sku": "SK1X12V",
+                "slug": "/products/sk1x12v-single-12-ported-subwoofer-enclosure-box"
+              },
+              {
+                "id": "3509169815575",
+                "sku": "SK2X12V",
+                "slug": "/products/sk2x12v-dual-12-inch-ported-subwoofer-enclosure-box"
+              },
+              {
+                "id": "4429638697007",
+                "sku": "SK3X12V",
+                "slug": "/products/sk3x12v-triple-12-inch-universal-fit-ported-subwoofer-enclosure"
+              },
+              {
+                "id": "4439703748655",
+                "sku": "AR1X12V",
+                "slug": "/products/ar1x12v-single-12-inch-armor-coated-ported-subwoofer-enclosure"
+              },
+              {
+                "id": "6859233263663",
+                "sku": "AR2X12V",
+                "slug": "/products/ar2x12v-dual-12-ported-subwoofer-enclosure-armor-coated"
+              }
+            ]
+          },
+          {
+            "title": "15\" Enclosures",
+            "id": "36460199959",
+            "slug": "/collections/subwoofer-enclosures-boxes/15\"-Enclosures",
+            "products": [
+              {
+                "id": "3508994015255",
+                "sku": "SK1X15V",
+                "slug": "/products/sk1x15v-single-15-ported-subwoofer-enclosure-box"
+              }
+            ]
+          },
+          {
+            "title": "18\" Enclosures",
+            "id": "36460199959",
+            "slug": "/collections/subwoofer-enclosures-boxes/18\"-Enclosures",
+            "products": [
+              {
+                "id": "3509005418519",
+                "sku": "SK1X18V",
+                "slug": "/products/sk1x18v-single-18-inch-ported-subwoofer-enclosure-box"
+              }
+            ]
+          },
+          {
+            "title": "Vehicle Specific",
+            "id": "166693273647",
+            "slug": "/collections/vehicle-specific-subwoofer-enclosures",
+            "sub-category": [
+              {
+                "id": "166693273647",
+                "sku": "Chevrolet",
+                "slug": "/collections/vehicle-specific-subwoofer-enclosures/chevrolet?sort_by="
+              },
+              {
+                "id": "166693273647",
+                "sku": "Dodge",
+                "slug": "/collections/vehicle-specific-subwoofer-enclosures/dodge?sort_by="
+              },
+              {
+                "id": "166693273647",
+                "sku": "GMC",
+                "slug": "/collections/vehicle-specific-subwoofer-enclosures/gmc?sort_by="
+              },
+              {
+                "id": "166693273647",
+                "sku": "Jeep",
+                "slug": "/collections/vehicle-specific-subwoofer-enclosures/jeep?sort_by="
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "amp-kits-wiring-more",
+        "category": "Amp Kits, Wiring & More",
+        "collections": [
+          {
+            "title": "Amplifier Wiring Kits",
+            "id": "135808286743",
+            "slug": "/collections/amplifier-wiring-kits",
+            "sub-category": [
+              {
+                "id": "135808286743",
+                "sku": "1/0 Gauge",
+                "slug": "/collections/amplifier-wiring-kits/1%2F0-Gauge"
+              },
+              {
+                "id": "135808286743",
+                "sku": "4 Gauge",
+                "slug": "/collections/amplifier-wiring-kits/4-Gauge"
+              },
+              {
+                "id": "135808286743",
+                "sku": "8 Gauge",
+                "slug": "/collections/amplifier-wiring-kits/8-Gauge"
+              }
+            ]
+          },
+          {
+            "title": "Speaker Wire",
+            "id": "159558238255",
+            "slug": "/collections/speaker-wire",
+            "sub-category": [
+              {
+                "id": "159558238255",
+                "sku": "10 AWG",
+                "slug": "/collections/speaker-wire/10-Gauge-(AWG)"
+              },
+              {
+                "id": "159558238255",
+                "sku": "12 AWG",
+                "slug": "/collections/speaker-wire/12-Gauge-(AWG)"
+              },
+              {
+                "id": "159558238255",
+                "sku": "14 AWG",
+                "slug": "/collections/speaker-wire/14-Gauge-(AWG)"
+              }
+            ]
+          },
+          {
+            "title": "RCA Interconnects",
+            "id": "150795747351",
+            "slug": "/collections/rca-interconnect-patch-cables-and-adapters",
+            "sub-category": [
+              {
+                "id": "150795747351",
+                "sku": "2-Channel",
+                "slug": "/collections/rca-interconnect-patch-cables-and-adapters/2-Channel"
+              },
+              {
+                "id": "150795747351",
+                "sku": "4-Channel",
+                "slug": "/collections/rca-interconnect-patch-cables-and-adapters/4-Channel"
+              },
+              {
+                "id": "150795747351",
+                "sku": "6-Channel",
+                "slug": "/collections/rca-interconnect-patch-cables-and-adapters/6-Channel"
+              },
+              {
+                "id": "150795747351",
+                "sku": "Y-Adapters",
+                "slug": "/collections/rca-interconnect-patch-cables-and-adapters/Y-Adapters"
+              }
+            ]
+          },
+          {
+            "title": "Elite Frequency Filters",
+            "id": "166882115631",
+            "slug": "/collections/elite-frequency-filters"
+          },
+          {
+            "title": "Fuses",
+            "id": "137337241623",
+            "slug": "/collections/anl-fuses-car-audio-fuses"
+          },
+          {
+            "title": "Replacement Bass Control Knobs",
+            "id": "22404333591",
+            "slug": "/collections/replacement-bass-knobs"
+          },
+          {
+            "title": "Ring Terminals",
+            "id": "269273038895",
+            "slug": "/collections/ring-terminals"
+          }
+        ]
+      },
+      {
+        "id": "equalizers",
+        "category": "Equalizers",
+        "collections": [
+          {
+            "title": "SKA7EQ",
+            "id": "4411884240943",
+            "slug": "/products/ska7eq-7-band-half-din-car-audio-pre-amp-graphic-equalizer"
+          }
+        ]
+      }
+    ]
+  }
+}
